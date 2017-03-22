@@ -29,4 +29,4 @@ Links
 -------
 [相关教程文章链接]
 
-*[搭建开发环境](http://reactnative.cn/docs/0.42/getting-started.html)
+* [搭建开发环境](http://reactnative.cn/docs/0.42/getting-started.html)
