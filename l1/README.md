@@ -25,6 +25,14 @@ Reload from git clone
 $ yarn install
 ```
 
+Run
+-------
+[运行]
+
+```bash
+$ react-native run-android | react-native run-ios
+```
+
 Links
 -------
 [相关教程文章链接]
