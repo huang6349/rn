@@ -1,0 +1,3 @@
+rootProject.name = 'l4'
+
+include ':app'
